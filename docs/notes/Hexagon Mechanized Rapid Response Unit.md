@@ -1,9 +1,9 @@
 ---
 tags: hexagon/unit
 type: 
-aliases: rapid-response, first-responder
-date: 28-04-2022
-share: true
+aliases: "rapid-response, first-responder"
+date: "28-04-2022"
+share: True
 ---
 > **Clearance**: T4.R120+
 > **Tech Level**: FFT+
