@@ -2,10 +2,9 @@
 tags: hexagon/department
 type: 
 aliases: 
-date: 25-04-2022
-share: true
+date: "25-04-2022"
+share: True
 ---
-
 > The [[The Hexagon Empire|Hexagon]] Central Chain of Command is a command chain that originates from the uppermost echelons, down to the lowest high commands.
 ---
 

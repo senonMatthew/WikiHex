@@ -2,10 +2,9 @@
 tags: hexagon/division
 type: 
 aliases: 
-date: 05-05-2022
-share: true
+date: "05-05-2022"
+share: True
 ---
-
 > The main military force of the Neo-Hexagon Empire and the Immortal Regime.
 ---
 

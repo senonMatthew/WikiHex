@@ -2,10 +2,9 @@
 tags: hexagon/agent
 type: 
 aliases: 
-date: 03-05-2022
-share: true
+date: "03-05-2022"
+share: True
 ---
-
 > **Clearance**: T4.R120
 > **Tech Level**: FFT+
 > 
