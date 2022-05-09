@@ -1,10 +1,9 @@
 ---
 tags: meta
-alias: index 000, main index, 000 index
-share: true
+alias: "index 000, main index, 000 index"
+share: True
 category: home
 ---
-
 <center><H2>Hello there, welcome to the Hexagon's Github Wiki!</H2></center>
 
 ### Current Happenings
