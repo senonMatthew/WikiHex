@@ -2,10 +2,9 @@
 tags: hexagon/machine
 type: 
 aliases: 
-date: 03-05-2022
-share: true
+date: "03-05-2022"
+share: True
 ---
-
 > **Type**: Mobile Anti-Infantry Warp-Anchor Prism Walker
 > **Tech Level**: FT
 > 
@@ -19,4 +18,3 @@ The **RX0.4-5E Minute Anti-Infantry Walker Carrier** (MAW) is a light, unmanned 
 The RX0.4-5E is equipped with a heavy automatic rail-cannon that's capable of tearing through 30mm of dense material, allowing it to deal damage to mid-tier armoured units or heavy aerial units.
 
 While in Prism Mode, it boasts superior frontal armour and shield barriers, causing it to be near indestructible while it's in it Prism Mode, allowing it to traverse through heavy combat, forcing itself through enemy lines. With an extremely small profile of about 5ft x 3ft, added with its ability to distort the little amount of energy it passively releases, it's hard to pinpoint using specialized cameras, and extremely hard to target at longer ranges.
-
