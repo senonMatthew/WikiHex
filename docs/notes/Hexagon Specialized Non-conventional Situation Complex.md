@@ -2,10 +2,9 @@
 tags: hexagon/unit
 type: 
 aliases: 
-date: 01-05-2022
-share: true
+date: "01-05-2022"
+share: True
 ---
-
 > **Clearance**: T4.R000-T6.R250
 > **Tech Level**: FFT+
 > 
