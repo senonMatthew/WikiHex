@@ -2,10 +2,9 @@
 tags: hexagon/experiment
 type: 
 aliases: 
-date: 30-04-2022
-share: true
+date: "30-04-2022"
+share: True
 ---
-
 > The EDEN Project is a top-secret research exercise that seeds new life for experiment purposes.
 ---
 
