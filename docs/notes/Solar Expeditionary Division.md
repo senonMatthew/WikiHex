@@ -6,6 +6,8 @@ date: "05-05-2022"
 share: True
 ---
 > The main military force of the Neo-Hexagon Empire and the Immortal Regime.
+> 
+> Holds the most diverse gear specifications in the Regime.
 ---
 
 **Related Notes:** 
