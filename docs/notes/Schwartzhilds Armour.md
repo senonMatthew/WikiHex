@@ -2,10 +2,9 @@
 tags: hexagon/equipment
 type: 
 aliases: 
-date: 03-05-2022
-share: true
+date: "03-05-2022"
+share: True
 ---
-
 > **Clearance**: T8.000+
 > **Type**: Projected Personal Armour
 > **Tech Level**: FFT+
