@@ -2,10 +2,9 @@
 tags: hexagon/agent
 type: 
 aliases: 
-date: 09-05-2022
-share: true
+date: "09-05-2022"
+share: True
 ---
-
 > **Clearance**: T8-R200
 > **Tech Level**: FFT+
 > 
