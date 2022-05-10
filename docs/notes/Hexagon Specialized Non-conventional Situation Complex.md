@@ -8,7 +8,7 @@ share: True
 > **Clearance**: T4.R000-T6.R250
 > **Tech Level**: FFT+
 > 
-> A combat unit designed to operate within a destitute and desolated areas.
+> A combat unit designed to operate within destitute and desolated areas.
 ---
 
 **Related Notes:** 
