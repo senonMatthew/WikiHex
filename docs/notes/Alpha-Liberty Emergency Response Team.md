@@ -6,6 +6,8 @@ date: "25-04-2022"
 share: True
 ---
 > A military attachment that's utilized by most Hexagon departments as a last resort or as a rescue team of sorts.
+> 
+> It operates separately from its head departments.
 ---
 
 **Related Notes:** 
