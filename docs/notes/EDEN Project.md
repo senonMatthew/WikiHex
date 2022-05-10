@@ -5,7 +5,10 @@ aliases:
 date: "30-04-2022"
 share: True
 ---
-> The EDEN Project is a top-secret research exercise that seeds new life for experiment purposes.
+> The EDEN Project is a top-secret research exercise orchestrated by the Central High Command's Advanced Technological Research and Development division.
+> 
+> It seeds new life for experimental purposes.
+
 ---
 
 **Related Notes:** 
