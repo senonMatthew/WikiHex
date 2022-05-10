@@ -2,10 +2,9 @@
 tags: hexagon/equipment
 type: 
 aliases: elite hexagon shield dome
-date: 26-04-2022
-share: true
+date: "26-04-2022"
+share: True
 ---
-
 > A sophisticated spatial-temporal manipulation field designed to 'freeze' the state of an object within it without affecting the object's functions or motion.
 ---
 
@@ -20,4 +19,3 @@ Secondarily, it provides a barrier against incoming forces, energies, or magics 
 An agent's Escher Device will always be found behind his neck. While still heavily protected, the agent is still capable of being hit by any strong enough projectile or weapon. The field is at its weakest in the back of the agent's neck, allowing even intermediate caliber weaponry to pierce through the field, damaging the device. The agent is thus told to never reveal the back of their necks to any enemy unit.
 
 *Destruction of the Escher's Device will leave the agent unprotected against any of the aforementioned threats. Any prior attempts at corruption conducted on the agent that were suppressed by the Escher's Field will begin to take hold once the field is disrupted.*
-
