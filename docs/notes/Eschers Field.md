@@ -6,6 +6,8 @@ date: "26-04-2022"
 share: True
 ---
 > A sophisticated spatial-temporal manipulation field designed to 'freeze' the state of an object within it without affecting the object's functions or motion.
+> 
+> It's mainly used for advanced protection.
 ---
 
 **Related Notes:** 
