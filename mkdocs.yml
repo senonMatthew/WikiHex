@@ -6,7 +6,7 @@ theme:
     name: 'material'
     logo: assets/img/favicon.png
     favicon: assets/img/favicon.png
-    custom_dir: overrides
+    # custom_dir: overrides
     font:
         text: Karla
         code: Ubuntu Mono
