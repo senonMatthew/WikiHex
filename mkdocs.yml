@@ -4,8 +4,8 @@ site_url: https://githexagon.github.io/WikiHex/
 
 theme:
     name: 'material'
-    logo: assets/images/favicon.png
-    favicon: assets/images/favicon.png
+    logo: assets/img/favicon.png
+    favicon: assets/img/favicon.png
     custom_dir: overrides
     font:
         text: Karla
