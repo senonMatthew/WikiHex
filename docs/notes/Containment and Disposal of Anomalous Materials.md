@@ -1,11 +1,10 @@
 ---
-tags: hexagon/agent, meta
+tags: "hexagon/agent, meta"
 type: 
 aliases: 
-date: 13-05-2022
-share: true
+date: "13-05-2022"
+share: True
 ---
-
 > A large-scale military force formed through the cooperation between the [[Hexagon Anthropological Research and Development|Anthropological Research and Development Division]], [[Hexagon Thaumaturgical Research and Development|Thaumaturgical Research and Development Division]], and the [[Hexagon Defense and Military Industries|Defense and Military Industries Division]].
 > 
 > It serves as the head of four specialized divisions, each tasked to conduct cross-multiversal operations relating to controlling, eliminating, and/or subjugating inhuman and unorthodox forces within or beyond [[The Hexagon Empire|Hexagon]] territories.
