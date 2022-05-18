@@ -18,9 +18,9 @@ tags:
 
 As a complex is a battle-group of unique agents, the combination of two complexes are known as a <u>Truncation</u>. Truncations are still divided into microcomplexes and nanocomplexes.
 
-| Unit         | No. of Agents         | Example of use in ORBAT                                                            |
-| ------------ | --------------------- | ---------------------------------------------------------------------------------- |
-| Complex      | 500,000 - 1,000,000   | Thanatos' Hazardous Disposal Unit – 33rd Suppressor Complex                        |
-| Truncation   | 1,000,000 - 2,000,000 | Thanatos' Hazardous Disposal Unit – 64th Truncation                                |
-| Microcomplex | 20,000                | 33rd Suppressor Complex – 10th Microcomplex OR 64th Truncation's 10th Microcomplex |
-| Nanocomplex  | 1,000                 | 10th Microcomplex – Nanocomplex A                                                  |
+| Unit         | No. of Agents         | Example of use in ORBAT                                                                                          |
+| ------------ | --------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| Complex      | 500,000 - 1,000,000   | [[Thanatos Operatives\|Thanatos]]' [[Hazardous Disposal Unit]] – 33rd [[Devastation Agent\|Devastation]] Complex |
+| Truncation   | 1,000,000 - 2,000,000 | Thanatos' Hazardous Disposal Unit – 64th Truncation                                                              |
+| Microcomplex | 20,000                | 33rd Suppressor Complex – 10th Microcomplex OR 64th Truncation's 10th Microcomplex                               |
+| Nanocomplex  | 1,000                 | 10th Microcomplex – Nanocomplex A                                                                                |
