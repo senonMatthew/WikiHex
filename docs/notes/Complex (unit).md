@@ -1,11 +1,12 @@
 ---
-tags: hexagon/agent
 type: 
 aliases: 
-date: 17-05-2022
-share: true
+date: "17-05-2022"
+share: True
+tags: 
+- hexagon
+- agent
 ---
-
 > A term pertaining to a battlegroup-equivalent unit. Utilized by the Hexagon and the Regime.
 > 
 > Complexes only pertain to unique groups of agents or vehicles, however, not a mixture of both. Mixtures of both vehicle and unit complexes are known as [[Tesselation (unit)|Tessellations]]. The addition of carrier space-vessels to a complex is known as a [[Tangent (unit)|Tangent]].
