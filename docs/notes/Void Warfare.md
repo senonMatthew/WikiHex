@@ -1,11 +1,12 @@
 ---
-tags: hexagon/tactics
 type: 
 aliases: 
-date: 31-05-2022
-share: true
+date: "31-05-2022"
+share: True
+tags: 
+- hexagon
+- tactics
 ---
-
 > Combat that takes place within or while entering/exiting the [[The Void|Void]].
 > 
 > Simply due to the danger of being in extremely close proximity to [[Void Particles]], belligerents have thus developed several doctrines and tactics that are vastly different from ordinary [[Space Warfare|space combat]].
