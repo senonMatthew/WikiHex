@@ -1,11 +1,12 @@
 ---
-tags: hexagon/machine
 type: 
 aliases: 
-date: 10-06-2022
-share: true
+date: "10-06-2022"
+share: True
+tags: 
+- hexagon
+- machine
 ---
-
 > **Type**: Ground-based Armoured Chassis
 > **Tech Level**: FT
 > 
@@ -28,17 +29,14 @@ It is capable of speeds up to 30km/h. Movement across long distances is possible
 
 A high-powered [[Advanced Thaumaturgical Nullification Modules|nullification module]] is installed at the back of the chassis.
 
-> [!abstract]- Defensive Functions
-> **Encounter**: Completely subverted, high profile.
-> **Detection**: Completely subverted, high profile.
-> **Acquisition**: Completely subverted, high profile.
-> **Contact**: Advanced Superheavy Kinetic Barriers.
-> **Penetration**: Superheavy Layered High-density Armour, Advanced Spatial Interference
-> **Damage**: Advanced Spatial Interference
+??? abstract "Defensive Functions"
+	**Encounter**: Completely subverted, high profile.
+	**Detection**: Completely subverted, high profile.
+	**Acquisition**: Completely subverted, high profile.
+	**Contact**: Advanced Superheavy Kinetic Barriers.
+	**Penetration**: Superheavy Layered High-density Armour, Advanced Spatial Interference
+	**Damage**: Advanced Spatial Interference
 
-> [!note]- Examples of the Chassis
-> ![](https://i.imgur.com/EU64GKZ.png)
-> ![](https://i.imgur.com/MkxS8Zs.png)
-
-
-
+??? note "Examples of the Chassis"
+	![](https://i.imgur.com/EU64GKZ.png)
+	![](https://i.imgur.com/MkxS8Zs.png)
