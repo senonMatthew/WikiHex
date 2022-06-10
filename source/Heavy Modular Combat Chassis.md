@@ -37,6 +37,8 @@ A high-powered [[Advanced Thaumaturgical Nullification Modules|nullification mod
 > **Damage**: Advanced Spatial Interference
 
 > [!note]- Examples of the Chassis
-> ![[path2313.png]] 
-> ![[path3533.png]]
-> 
+> ![](https://i.imgur.com/EU64GKZ.png)
+> ![](https://i.imgur.com/MkxS8Zs.png)
+
+
+
