@@ -10,7 +10,7 @@ tags:
 > **Type**: Ground-based Armoured Chassis
 > **Tech Level**: FT
 > 
-> A highly customizable combat chassis that's designed to hold one main heavy [[Adaptive Modular Weapon Systems|AMWS]] Fragment and two secondary light AMWS Fragments. It features two support modular installation slots, and can support a crew of at least five people. This is usually the most common combat chassis utilized by the [[The Hexagon|Hexagon]] and the [[The Immortal Regime|Regime]]. Without any AMWS emplacements, it's about 8ft in height, 32ft in length, and 15ft in width.
+> A highly customizable combat chassis that's designed to hold one main heavy [[Adaptive Modular Weapon Systems|AMWS]] Fragment and two secondary light AMWS Fragments. It features two support modular installation slots, and can fit at most ten people inside it. This is usually the most common combat chassis utilized by the [[The Hexagon|Hexagon]] and the [[The Immortal Regime|Regime]]. Without any AMWS emplacements, it's about 8ft in height, 32ft in length, and 15ft in width.
 ---
 
 **Related Notes:** 
