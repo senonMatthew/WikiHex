@@ -23,7 +23,7 @@ Featuring super-heavy kinetic shielding and extremely powerful defensive measure
 
 Like all Hexagon vehicles, it features a spatial interference module that allows it to multiply its effective armour by warping and spacing out the armour it already has, while keeping its weight and size the same. However, it carries with it a more advanced module, increasing its effective armour twentyfold (or up to a hundredfold, if focused on a specific side), while allowing it to change its effective weight to better suit the gravity of the planet it's operating on.
 
-Due to its armour, it's incapable of traversing uneven surfaces, which isn't really a problem, as the surfaces would usually be enough for agents to hide behind for cover anyway, fulfilling the vehicle's purpose. Its AMWS turret's rotation is also limited by the chassis' armour, which was designed to protect the crew and the units beside it.
+Due to its armour, it's near incapable of traversing uneven surfaces, which isn't really a problem, as such surfaces would usually be enough for agents to hide behind for cover anyway, fulfilling the vehicle's purpose. Its AMWS turret's rotation is also limited by the chassis' armour, which was designed to protect the crew and the units beside it.
 
 It is capable of speeds up to 30km/h. Movement across long distances is possible with minimal maintenance, and fuel would be enough to allow the tank to traverse about one thousand miles if cut off from the Interlink. Using its advanced spatial interference modules, it's capable of lessening its weight just enough for dropships to carry it.
 
