@@ -13,7 +13,7 @@ tags:
 > A highly customizable combat chassis that's designed to hold one main heavy [[Adaptive Modular Weapon Systems|AMWS]] Fragment and two secondary light AMWS Fragments. It features two support modular installation slots, and can fit at most ten people inside it. This is usually the most common combat chassis utilized by the [[The Hexagon|Hexagon]] and the [[The Immortal Regime|Regime]]. Without any AMWS emplacements, it's about 8ft in height, 32ft in length, and 15ft in width.
 ---
 
-**Related Notes:** 
+**Related Notes:** `
 
 The Heavy Modular Combat Chassis is a blank-slate combat chassis that's utilized by the Hexagon and the Regime as a base for their vehicles.
 
@@ -40,3 +40,5 @@ A high-powered [[Advanced Thaumaturgical Nullification Modules|nullification mod
 ??? note "Examples of the Chassis"
 	![](https://i.imgur.com/EU64GKZ.png)
 	![](https://i.imgur.com/MkxS8Zs.png)
+	![](https://i.imgur.com/ZTLNeeA.png)
+	![](https://i.imgur.com/zExSsPp.png)
