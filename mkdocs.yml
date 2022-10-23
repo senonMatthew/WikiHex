@@ -96,4 +96,5 @@ extra_css:
     - assets/css/tooltipster.bundle.min.css
     - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css
 extra:
+  homepage: https://git-hexagon.github.io/Hexagon/home/---/
   generator: false
